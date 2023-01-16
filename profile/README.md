@@ -8,3 +8,17 @@
 <p>
    The Number One North America Based FiveM Community with a variety of features to keep you and all your friends entertained for days.
 </p>
+
+<hr>
+
+<h2>
+  Useful Links
+</h2>
+
+<ul>
+  <li><a href="https://narc.live">Website</a></li>
+  <li><a href="https://narc.live/join">Discord</a></li>
+  <li><a href="https://narc.live/status">Status</a></li>
+  <li><a href="https://narc.live/twitter">Twitter</a></li>
+  <li><a href="https://narc.live/github">Github</a></li>
+</ul>
